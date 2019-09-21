@@ -118,3 +118,20 @@ ol, ul {
     font-size: 25px;
     color: #876F8D;
 }
+.hero{
+    background-color: aqua;
+}
+.ofrecer{
+    text-align: center;
+    padding-top: 20px;
+}
+.hero1{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.varios{
+    height: 200px;
+    width: 33%;
+}
